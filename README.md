@@ -43,7 +43,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Create a pull request.
 
 ## Contact
-For any questions or inquiries, please contact (siddharthkeshar5678@gmail.com)
+For any questions or inquiries, please contact (sharan2732@gmail.com)
 
 **##Resources**
 🔗Material UI Icons
